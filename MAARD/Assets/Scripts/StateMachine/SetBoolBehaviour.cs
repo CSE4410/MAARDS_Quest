@@ -57,7 +57,7 @@ public class SetBoolBehaviour : StateMachineBehaviour
     override public void OnStateMachineExit(Animator animator, int stateMachinePathHash)
     {
         if (updateOnStateMachine)
-            animator.SetBool(boolName, valueOnEnter);
+            animator.SetBool(boolName, valueOnExit);
 
     }
 }
