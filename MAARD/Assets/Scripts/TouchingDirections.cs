@@ -16,7 +16,7 @@ public class TouchingDirections : MonoBehaviour
     CapsuleCollider2D touchingCol;
     Animator animator;
 
-    RaycastHit2D[] groundhits = new RaycastHit2D[5];
+    RaycastHit2D[] groundHits = new RaycastHit2D[5];
     RaycastHit2D[] wallHits = new RaycastHit2D[5];
     RaycastHit2D[] ceilingHits = new RaycastHit2D[5];
 
@@ -75,7 +75,7 @@ public class TouchingDirections : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        IsGrounded = touchingCol.Cast(Vector2.down, castFilter, groundhits, groundDistance) > 0;
+        IsGrounded = touchingCol.Cast(Vector2.down, castFilter, groundHits, groundDistance) > 0;
         IsOnWall = touchingCol.Cast(wallCheckDirection, castFilter, wallHits, wallDistance) > 0;
         IsOnCeiling = touchingCol.Cast(Vector2.up, castFilter, ceilingHits, ceilingDistance) > 0;
     }
