@@ -574,6 +574,17 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &879652331 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5530554757844409281, guid: 4cb1885b97605674baa35366c459e937, type: 3}
+  m_PrefabInstance: {fileID: 4061869885053991479}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1ad9b43745c07b4e959efd068c84d49, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1389170105
 GameObject:
   m_ObjectHideFlags: 0
@@ -11306,6 +11317,34 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1202902261360864337, guid: 4cb1885b97605674baa35366c459e937, type: 3}
+      propertyPath: damageableHit.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1202902261360864337, guid: 4cb1885b97605674baa35366c459e937, type: 3}
+      propertyPath: damageableHit.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1202902261360864337, guid: 4cb1885b97605674baa35366c459e937, type: 3}
+      propertyPath: damageableHit.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 879652331}
+    - target: {fileID: 1202902261360864337, guid: 4cb1885b97605674baa35366c459e937, type: 3}
+      propertyPath: damageableHit.m_PersistentCalls.m_Calls.Array.data[0].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1202902261360864337, guid: 4cb1885b97605674baa35366c459e937, type: 3}
+      propertyPath: damageableHit.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: OnHit
+      objectReference: {fileID: 0}
+    - target: {fileID: 1202902261360864337, guid: 4cb1885b97605674baa35366c459e937, type: 3}
+      propertyPath: damageableHit.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: Knight, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 1202902261360864337, guid: 4cb1885b97605674baa35366c459e937, type: 3}
+      propertyPath: damageableHit.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 1264926128211801131, guid: 4cb1885b97605674baa35366c459e937, type: 3}
       propertyPath: m_Name
       value: KnightEnemy
@@ -11320,7 +11359,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4200650825740392782, guid: 4cb1885b97605674baa35366c459e937, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.75
+      value: -3.1
       objectReference: {fileID: 0}
     - target: {fileID: 4200650825740392782, guid: 4cb1885b97605674baa35366c459e937, type: 3}
       propertyPath: m_LocalPosition.y
@@ -11366,6 +11405,10 @@ PrefabInstance:
       propertyPath: walkStopRate
       value: 0.05
       objectReference: {fileID: 0}
+    - target: {fileID: 5805715599312141056, guid: 4cb1885b97605674baa35366c459e937, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.76
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4cb1885b97605674baa35366c459e937, type: 3}
@@ -11377,6 +11420,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 7050658543842900142, guid: fdf6036c5b91bd1459f59d8c8f4208ab, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.11
+      objectReference: {fileID: 0}
     - target: {fileID: 8419531373419773094, guid: fdf6036c5b91bd1459f59d8c8f4208ab, type: 3}
       propertyPath: m_Name
       value: Player
