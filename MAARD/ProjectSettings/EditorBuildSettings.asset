@@ -12,6 +12,6 @@ EditorBuildSettings:
     path: Assets/MainMenu/GamePlayScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
-    path: Assets/Scenes/QuitScene.unity
+    path: Assets/MainMenu/QuitScene.unity
     guid: 731d541d1a5de6c4997cdb23323e30fa
   m_configObjects: {}
