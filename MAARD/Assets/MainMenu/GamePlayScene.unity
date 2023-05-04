@@ -155,6 +155,9 @@ Transform:
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
 --- !u!1 &370752057
 GameObject:
   m_ObjectHideFlags: 0
@@ -395,6 +398,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 =======
 --- !u!1001 &231251931
 PrefabInstance:
@@ -480,6 +484,8 @@ PrefabInstance:
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 1c1d556a6eecb1e49abd41c295d08a9f, type: 3}
 >>>>>>> 64dd702d8c673d8f6613e8e1668081f464c0a2e4
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
 --- !u!1 &424869638
 GameObject:
   m_ObjectHideFlags: 3
@@ -708,7 +714,11 @@ Transform:
   - {fileID: 1385706079}
   - {fileID: 1286776327}
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 17
+=======
+  m_RootOrder: 14
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &519420028
 GameObject:
@@ -1087,7 +1097,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6584455778794968489, guid: 5cd706276180c4b49881fdd00b60de54, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
       value: 13
+=======
+      value: 12
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
       objectReference: {fileID: 0}
     - target: {fileID: 6584455778794968489, guid: 5cd706276180c4b49881fdd00b60de54, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1293,6 +1307,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!114 &1497059425 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 5530554757844409281, guid: 4cb1885b97605674baa35366c459e937, type: 3}
@@ -1304,6 +1319,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a1ad9b43745c07b4e959efd068c84d49, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
 --- !u!1 &1571780103
 GameObject:
   m_ObjectHideFlags: 0
@@ -1441,6 +1458,7 @@ Tilemap:
   m_GameObject: {fileID: 1621293838}
   m_Enabled: 1
   m_Tiles:
+<<<<<<< HEAD
   - first: {x: 96, y: -30, z: 0}
     second:
       serializedVersion: 2
@@ -7701,6 +7719,8 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   - first: {x: -5, y: -17, z: 0}
     second:
       serializedVersion: 2
@@ -7781,6 +7801,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 84, y: -17, z: 0}
     second:
       serializedVersion: 2
@@ -8311,6 +8332,8 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   - first: {x: -5, y: -16, z: 0}
     second:
       serializedVersion: 2
@@ -8391,6 +8414,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 84, y: -16, z: 0}
     second:
       serializedVersion: 2
@@ -8921,6 +8945,8 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   - first: {x: -5, y: -15, z: 0}
     second:
       serializedVersion: 2
@@ -9001,6 +9027,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 84, y: -15, z: 0}
     second:
       serializedVersion: 2
@@ -9531,6 +9558,8 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   - first: {x: -5, y: -14, z: 0}
     second:
       serializedVersion: 2
@@ -9611,6 +9640,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 84, y: -14, z: 0}
     second:
       serializedVersion: 2
@@ -10141,6 +10171,8 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   - first: {x: -5, y: -13, z: 0}
     second:
       serializedVersion: 2
@@ -10221,7 +10253,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 84, y: -13, z: 0}
+=======
+  - first: {x: 15, y: -13, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -10231,7 +10267,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 85, y: -13, z: 0}
+=======
+  - first: {x: 16, y: -13, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -10241,7 +10281,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 86, y: -13, z: 0}
+=======
+  - first: {x: 17, y: -13, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -10251,7 +10295,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 87, y: -13, z: 0}
+=======
+  - first: {x: 18, y: -13, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -10261,7 +10309,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 88, y: -13, z: 0}
+=======
+  - first: {x: 19, y: -13, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -10271,7 +10323,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 89, y: -13, z: 0}
+=======
+  - first: {x: 20, y: -13, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -10281,7 +10337,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 90, y: -13, z: 0}
+=======
+  - first: {x: 21, y: -13, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -10291,7 +10351,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 91, y: -13, z: 0}
+=======
+  - first: {x: 22, y: -13, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -10301,6 +10365,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 92, y: -13, z: 0}
     second:
       serializedVersion: 2
@@ -10312,6 +10377,9 @@ Tilemap:
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
   - first: {x: 93, y: -13, z: 0}
+=======
+  - first: {x: 23, y: -13, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -10321,7 +10389,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 94, y: -13, z: 0}
+=======
+  - first: {x: 24, y: -13, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -10331,7 +10403,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 95, y: -13, z: 0}
+=======
+  - first: {x: 25, y: -13, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -10341,6 +10417,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 96, y: -13, z: 0}
     second:
       serializedVersion: 2
@@ -10742,6 +10819,9 @@ Tilemap:
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
   - first: {x: 136, y: -13, z: 0}
+=======
+  - first: {x: 26, y: -13, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -10941,6 +11021,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 14, y: -12, z: 0}
     second:
       serializedVersion: 2
@@ -10952,6 +11033,9 @@ Tilemap:
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
   - first: {x: 84, y: -12, z: 0}
+=======
+  - first: {x: 15, y: -12, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -10961,7 +11045,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 85, y: -12, z: 0}
+=======
+  - first: {x: 16, y: -12, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -10971,7 +11059,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 86, y: -12, z: 0}
+=======
+  - first: {x: 17, y: -12, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -10981,7 +11073,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 87, y: -12, z: 0}
+=======
+  - first: {x: 18, y: -12, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -10991,7 +11087,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 88, y: -12, z: 0}
+=======
+  - first: {x: 19, y: -12, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -11001,7 +11101,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 89, y: -12, z: 0}
+=======
+  - first: {x: 20, y: -12, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -11011,6 +11115,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 90, y: -12, z: 0}
     second:
       serializedVersion: 2
@@ -11022,6 +11127,9 @@ Tilemap:
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
   - first: {x: 91, y: -12, z: 0}
+=======
+  - first: {x: 21, y: -12, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -11031,7 +11139,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 92, y: -12, z: 0}
+=======
+  - first: {x: 22, y: -12, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -11041,7 +11153,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 93, y: -12, z: 0}
+=======
+  - first: {x: 23, y: -12, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -11051,7 +11167,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 94, y: -12, z: 0}
+=======
+  - first: {x: 24, y: -12, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -11061,7 +11181,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 95, y: -12, z: 0}
+=======
+  - first: {x: 25, y: -12, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -11071,6 +11195,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 96, y: -12, z: 0}
     second:
       serializedVersion: 2
@@ -11472,6 +11597,9 @@ Tilemap:
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
   - first: {x: 136, y: -12, z: 0}
+=======
+  - first: {x: 26, y: -12, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -11674,14 +11802,23 @@ Tilemap:
   - first: {x: 14, y: -11, z: 0}
     second:
       serializedVersion: 2
+<<<<<<< HEAD
       m_TileIndex: 6
       m_TileSpriteIndex: 6
+=======
+      m_TileIndex: 4
+      m_TileSpriteIndex: 4
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 84, y: -11, z: 0}
+=======
+  - first: {x: 15, y: -11, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -11691,7 +11828,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 85, y: -11, z: 0}
+=======
+  - first: {x: 16, y: -11, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -11701,7 +11842,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 86, y: -11, z: 0}
+=======
+  - first: {x: 17, y: -11, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -11711,7 +11856,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 87, y: -11, z: 0}
+=======
+  - first: {x: 18, y: -11, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -11721,7 +11870,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 88, y: -11, z: 0}
+=======
+  - first: {x: 19, y: -11, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -11731,7 +11884,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 89, y: -11, z: 0}
+=======
+  - first: {x: 20, y: -11, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -11741,6 +11898,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 90, y: -11, z: 0}
     second:
       serializedVersion: 2
@@ -11762,6 +11920,9 @@ Tilemap:
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
   - first: {x: 92, y: -11, z: 0}
+=======
+  - first: {x: 21, y: -11, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 2
@@ -11771,7 +11932,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 93, y: -11, z: 0}
+=======
+  - first: {x: 22, y: -11, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -11781,7 +11946,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 94, y: -11, z: 0}
+=======
+  - first: {x: 23, y: -11, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -11791,7 +11960,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 95, y: -11, z: 0}
+=======
+  - first: {x: 24, y: -11, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -11801,7 +11974,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 96, y: -11, z: 0}
+=======
+  - first: {x: 25, y: -11, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -11811,6 +11988,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 97, y: -11, z: 0}
     second:
       serializedVersion: 2
@@ -12202,6 +12380,9 @@ Tilemap:
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
   - first: {x: 136, y: -11, z: 0}
+=======
+  - first: {x: 26, y: -11, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -12404,14 +12585,23 @@ Tilemap:
   - first: {x: 14, y: -10, z: 0}
     second:
       serializedVersion: 2
+<<<<<<< HEAD
       m_TileIndex: 6
       m_TileSpriteIndex: 6
+=======
+      m_TileIndex: 4
+      m_TileSpriteIndex: 4
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 84, y: -10, z: 0}
+=======
+  - first: {x: 15, y: -10, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -12421,7 +12611,71 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 85, y: -10, z: 0}
+=======
+  - first: {x: 16, y: -10, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 4
+      m_TileSpriteIndex: 4
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_TileObjectToInstantiateIndex: 65535
+      dummyAlignment: 0
+      m_AllTileFlags: 1073741825
+  - first: {x: 17, y: -10, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 4
+      m_TileSpriteIndex: 4
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_TileObjectToInstantiateIndex: 65535
+      dummyAlignment: 0
+      m_AllTileFlags: 1073741825
+  - first: {x: 18, y: -10, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 4
+      m_TileSpriteIndex: 4
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_TileObjectToInstantiateIndex: 65535
+      dummyAlignment: 0
+      m_AllTileFlags: 1073741825
+  - first: {x: 19, y: -10, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 4
+      m_TileSpriteIndex: 4
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_TileObjectToInstantiateIndex: 65535
+      dummyAlignment: 0
+      m_AllTileFlags: 1073741825
+  - first: {x: 20, y: -10, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 4
+      m_TileSpriteIndex: 4
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_TileObjectToInstantiateIndex: 65535
+      dummyAlignment: 0
+      m_AllTileFlags: 1073741825
+  - first: {x: 21, y: -10, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 4
+      m_TileSpriteIndex: 4
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_TileObjectToInstantiateIndex: 65535
+      dummyAlignment: 0
+      m_AllTileFlags: 1073741825
+  - first: {x: 22, y: -10, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 2
@@ -12431,7 +12685,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 86, y: -10, z: 0}
+=======
+  - first: {x: 23, y: -10, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -12441,7 +12699,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 87, y: -10, z: 0}
+=======
+  - first: {x: 24, y: -10, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -12451,7 +12713,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 88, y: -10, z: 0}
+=======
+  - first: {x: 25, y: -10, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -12461,6 +12727,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 89, y: -10, z: 0}
     second:
       serializedVersion: 2
@@ -12932,6 +13199,9 @@ Tilemap:
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
   - first: {x: 136, y: -10, z: 0}
+=======
+  - first: {x: 26, y: -10, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -13134,14 +13404,23 @@ Tilemap:
   - first: {x: 14, y: -9, z: 0}
     second:
       serializedVersion: 2
+<<<<<<< HEAD
       m_TileIndex: 6
       m_TileSpriteIndex: 6
+=======
+      m_TileIndex: 4
+      m_TileSpriteIndex: 4
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 84, y: -9, z: 0}
+=======
+  - first: {x: 15, y: -9, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -13151,7 +13430,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 85, y: -9, z: 0}
+=======
+  - first: {x: 16, y: -9, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -13161,7 +13444,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 86, y: -9, z: 0}
+=======
+  - first: {x: 17, y: -9, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -13171,7 +13458,21 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 87, y: -9, z: 0}
+=======
+  - first: {x: 18, y: -9, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 2
+      m_TileSpriteIndex: 2
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_TileObjectToInstantiateIndex: 65535
+      dummyAlignment: 0
+      m_AllTileFlags: 1073741825
+  - first: {x: 19, y: -9, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -13181,7 +13482,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 88, y: -9, z: 0}
+=======
+  - first: {x: 20, y: -9, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -13191,7 +13496,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 89, y: -9, z: 0}
+=======
+  - first: {x: 21, y: -9, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -13201,7 +13510,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 90, y: -9, z: 0}
+=======
+  - first: {x: 22, y: -9, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -13211,7 +13524,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 91, y: -9, z: 0}
+=======
+  - first: {x: 23, y: -9, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -13221,7 +13538,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 92, y: -9, z: 0}
+=======
+  - first: {x: 24, y: -9, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -13231,7 +13552,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 93, y: -9, z: 0}
+=======
+  - first: {x: 25, y: -9, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -13241,6 +13566,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 94, y: -9, z: 0}
     second:
       serializedVersion: 2
@@ -13666,6 +13992,13 @@ Tilemap:
       serializedVersion: 2
       m_TileIndex: 4
       m_TileSpriteIndex: 4
+=======
+  - first: {x: 26, y: -9, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 17
+      m_TileSpriteIndex: 17
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -13864,14 +14197,23 @@ Tilemap:
   - first: {x: 14, y: -8, z: 0}
     second:
       serializedVersion: 2
+<<<<<<< HEAD
       m_TileIndex: 6
       m_TileSpriteIndex: 6
+=======
+      m_TileIndex: 4
+      m_TileSpriteIndex: 4
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 84, y: -8, z: 0}
+=======
+  - first: {x: 15, y: -8, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -13881,7 +14223,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 85, y: -8, z: 0}
+=======
+  - first: {x: 16, y: -8, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -13891,7 +14237,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 86, y: -8, z: 0}
+=======
+  - first: {x: 17, y: -8, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -13901,7 +14251,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 87, y: -8, z: 0}
+=======
+  - first: {x: 18, y: -8, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -13911,7 +14265,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 88, y: -8, z: 0}
+=======
+  - first: {x: 19, y: -8, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -13921,7 +14279,21 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 89, y: -8, z: 0}
+=======
+  - first: {x: 20, y: -8, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 2
+      m_TileSpriteIndex: 2
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_TileObjectToInstantiateIndex: 65535
+      dummyAlignment: 0
+      m_AllTileFlags: 1073741825
+  - first: {x: 21, y: -8, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -13931,7 +14303,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 90, y: -8, z: 0}
+=======
+  - first: {x: 22, y: -8, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -13941,7 +14317,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 91, y: -8, z: 0}
+=======
+  - first: {x: 23, y: -8, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -13951,7 +14331,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 92, y: -8, z: 0}
+=======
+  - first: {x: 24, y: -8, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -13961,7 +14345,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 93, y: -8, z: 0}
+=======
+  - first: {x: 25, y: -8, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -13971,6 +14359,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 94, y: -8, z: 0}
     second:
       serializedVersion: 2
@@ -14392,6 +14781,9 @@ Tilemap:
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
   - first: {x: 136, y: -8, z: 0}
+=======
+  - first: {x: 26, y: -8, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -14591,6 +14983,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 14, y: -7, z: 0}
     second:
       serializedVersion: 2
@@ -14602,6 +14995,9 @@ Tilemap:
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
   - first: {x: 84, y: -7, z: 0}
+=======
+  - first: {x: 15, y: -7, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -14611,7 +15007,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 85, y: -7, z: 0}
+=======
+  - first: {x: 16, y: -7, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -14621,7 +15021,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 86, y: -7, z: 0}
+=======
+  - first: {x: 17, y: -7, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -14631,7 +15035,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 87, y: -7, z: 0}
+=======
+  - first: {x: 18, y: -7, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -14641,7 +15049,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 88, y: -7, z: 0}
+=======
+  - first: {x: 19, y: -7, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -14651,7 +15063,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 89, y: -7, z: 0}
+=======
+  - first: {x: 20, y: -7, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -14661,7 +15077,31 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 90, y: -7, z: 0}
+=======
+  - first: {x: 21, y: -7, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 4
+      m_TileSpriteIndex: 4
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_TileObjectToInstantiateIndex: 65535
+      dummyAlignment: 0
+      m_AllTileFlags: 1073741825
+  - first: {x: 22, y: -7, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 4
+      m_TileSpriteIndex: 4
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_TileObjectToInstantiateIndex: 65535
+      dummyAlignment: 0
+      m_AllTileFlags: 1073741825
+  - first: {x: 23, y: -7, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 2
@@ -14671,7 +15111,21 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 91, y: -7, z: 0}
+=======
+  - first: {x: 24, y: -7, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 2
+      m_TileSpriteIndex: 2
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_TileObjectToInstantiateIndex: 65535
+      dummyAlignment: 0
+      m_AllTileFlags: 1073741825
+  - first: {x: 25, y: -7, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -14681,6 +15135,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 92, y: -7, z: 0}
     second:
       serializedVersion: 2
@@ -15122,6 +15577,9 @@ Tilemap:
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
   - first: {x: 136, y: -7, z: 0}
+=======
+  - first: {x: 26, y: -7, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -15231,6 +15689,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 14, y: -6, z: 0}
     second:
       serializedVersion: 2
@@ -15242,6 +15701,9 @@ Tilemap:
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
   - first: {x: 84, y: -6, z: 0}
+=======
+  - first: {x: 15, y: -6, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -15251,7 +15713,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 85, y: -6, z: 0}
+=======
+  - first: {x: 16, y: -6, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -15261,7 +15727,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 86, y: -6, z: 0}
+=======
+  - first: {x: 17, y: -6, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -15271,7 +15741,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 87, y: -6, z: 0}
+=======
+  - first: {x: 18, y: -6, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -15281,7 +15755,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 88, y: -6, z: 0}
+=======
+  - first: {x: 19, y: -6, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -15291,7 +15769,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 89, y: -6, z: 0}
+=======
+  - first: {x: 20, y: -6, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -15301,7 +15783,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 90, y: -6, z: 0}
+=======
+  - first: {x: 21, y: -6, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -15311,7 +15797,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 91, y: -6, z: 0}
+=======
+  - first: {x: 22, y: -6, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -15321,7 +15811,21 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 92, y: -6, z: 0}
+=======
+  - first: {x: 23, y: -6, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 4
+      m_TileSpriteIndex: 4
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_TileObjectToInstantiateIndex: 65535
+      dummyAlignment: 0
+      m_AllTileFlags: 1073741825
+  - first: {x: 24, y: -6, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 2
@@ -15331,7 +15835,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 93, y: -6, z: 0}
+=======
+  - first: {x: 25, y: -6, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -15341,6 +15849,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 94, y: -6, z: 0}
     second:
       serializedVersion: 2
@@ -15762,6 +16271,9 @@ Tilemap:
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
   - first: {x: 136, y: -6, z: 0}
+=======
+  - first: {x: 26, y: -6, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -15871,6 +16383,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 14, y: -5, z: 0}
     second:
       serializedVersion: 2
@@ -15882,6 +16395,9 @@ Tilemap:
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
   - first: {x: 84, y: -5, z: 0}
+=======
+  - first: {x: 15, y: -5, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -15891,7 +16407,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 85, y: -5, z: 0}
+=======
+  - first: {x: 16, y: -5, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -15901,7 +16421,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 86, y: -5, z: 0}
+=======
+  - first: {x: 17, y: -5, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -15911,7 +16435,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 87, y: -5, z: 0}
+=======
+  - first: {x: 18, y: -5, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -15921,7 +16449,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 88, y: -5, z: 0}
+=======
+  - first: {x: 19, y: -5, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -15931,7 +16463,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 89, y: -5, z: 0}
+=======
+  - first: {x: 20, y: -5, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -15941,7 +16477,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 90, y: -5, z: 0}
+=======
+  - first: {x: 21, y: -5, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -15951,7 +16491,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 91, y: -5, z: 0}
+=======
+  - first: {x: 22, y: -5, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -15961,7 +16505,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 92, y: -5, z: 0}
+=======
+  - first: {x: 23, y: -5, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -15971,7 +16519,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 93, y: -5, z: 0}
+=======
+  - first: {x: 24, y: -5, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -15981,7 +16533,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 94, y: -5, z: 0}
+=======
+  - first: {x: 25, y: -5, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -15991,6 +16547,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 95, y: -5, z: 0}
     second:
       serializedVersion: 2
@@ -16402,6 +16959,9 @@ Tilemap:
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
   - first: {x: 136, y: -5, z: 0}
+=======
+  - first: {x: 26, y: -5, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -16511,6 +17071,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 14, y: -4, z: 0}
     second:
       serializedVersion: 2
@@ -16522,6 +17083,9 @@ Tilemap:
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
   - first: {x: 84, y: -4, z: 0}
+=======
+  - first: {x: 15, y: -4, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -16531,7 +17095,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 85, y: -4, z: 0}
+=======
+  - first: {x: 16, y: -4, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -16541,7 +17109,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 86, y: -4, z: 0}
+=======
+  - first: {x: 17, y: -4, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -16551,7 +17123,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 87, y: -4, z: 0}
+=======
+  - first: {x: 18, y: -4, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -16561,7 +17137,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 88, y: -4, z: 0}
+=======
+  - first: {x: 19, y: -4, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -16571,7 +17151,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 89, y: -4, z: 0}
+=======
+  - first: {x: 20, y: -4, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -16581,7 +17165,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 90, y: -4, z: 0}
+=======
+  - first: {x: 21, y: -4, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -16591,7 +17179,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 91, y: -4, z: 0}
+=======
+  - first: {x: 22, y: -4, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -16601,7 +17193,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 92, y: -4, z: 0}
+=======
+  - first: {x: 23, y: -4, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -16611,7 +17207,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 93, y: -4, z: 0}
+=======
+  - first: {x: 24, y: -4, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -16621,7 +17221,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 94, y: -4, z: 0}
+=======
+  - first: {x: 25, y: -4, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -16631,6 +17235,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 95, y: -4, z: 0}
     second:
       serializedVersion: 2
@@ -17042,6 +17647,9 @@ Tilemap:
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
   - first: {x: 136, y: -4, z: 0}
+=======
+  - first: {x: 26, y: -4, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -17151,7 +17759,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 84, y: -3, z: 0}
+=======
+  - first: {x: 16, y: -3, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -17161,7 +17773,11 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 85, y: -3, z: 0}
+=======
+  - first: {x: 17, y: -3, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -17171,6 +17787,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 86, y: -3, z: 0}
     second:
       serializedVersion: 2
@@ -17672,6 +18289,9 @@ Tilemap:
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
   - first: {x: 136, y: -3, z: 0}
+=======
+  - first: {x: 18, y: -3, z: 0}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     second:
       serializedVersion: 2
       m_TileIndex: 4
@@ -17741,6 +18361,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 84, y: -2, z: 0}
     second:
       serializedVersion: 2
@@ -18271,6 +18892,8 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   - first: {x: 4, y: -1, z: 0}
     second:
       serializedVersion: 2
@@ -18331,6 +18954,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 84, y: -1, z: 0}
     second:
       serializedVersion: 2
@@ -18851,6 +19475,8 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   - first: {x: 4, y: 0, z: 0}
     second:
       serializedVersion: 2
@@ -18911,6 +19537,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 84, y: 0, z: 0}
     second:
       serializedVersion: 2
@@ -20541,12 +21168,15 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   m_AnimatedTiles: {}
   m_TileAssetArray:
   - m_RefCount: 0
     m_Data: {fileID: 0}
   - m_RefCount: 2
     m_Data: {fileID: 11400000, guid: 8ac6017c7b55c7148b96f64686d705f7, type: 2}
+<<<<<<< HEAD
   - m_RefCount: 52
     m_Data: {fileID: 11400000, guid: 62abe2ec3f70593418f59d01b2a03701, type: 2}
   - m_RefCount: 6
@@ -20556,6 +21186,17 @@ Tilemap:
   - m_RefCount: 0
     m_Data: {fileID: 0}
   - m_RefCount: 12
+=======
+  - m_RefCount: 9
+    m_Data: {fileID: 11400000, guid: 62abe2ec3f70593418f59d01b2a03701, type: 2}
+  - m_RefCount: 6
+    m_Data: {fileID: 11400000, guid: 892c33eeb4ea0fc49a6bbe2800bda3f8, type: 2}
+  - m_RefCount: 308
+    m_Data: {fileID: 11400000, guid: 4ad827b0acb6bee4daef6b9e5009b133, type: 2}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 3
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     m_Data: {fileID: 11400000, guid: 79f5dba917ee3204eb8a82725c60cd08, type: 2}
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: 100f4bb1dd18ae14e88980d22bd530ea, type: 2}
@@ -20577,13 +21218,18 @@ Tilemap:
     m_Data: {fileID: 0}
   - m_RefCount: 0
     m_Data: {fileID: 0}
+<<<<<<< HEAD
   - m_RefCount: 6
+=======
+  - m_RefCount: 1
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     m_Data: {fileID: 11400000, guid: ee02e0ee3952a744ca23f0ca0cb51441, type: 2}
   m_TileSpriteArray:
   - m_RefCount: 0
     m_Data: {fileID: 0}
   - m_RefCount: 2
     m_Data: {fileID: 763321748, guid: ef2c26fb98304da468beae1acc4c477e, type: 3}
+<<<<<<< HEAD
   - m_RefCount: 52
     m_Data: {fileID: 1315508007, guid: ef2c26fb98304da468beae1acc4c477e, type: 3}
   - m_RefCount: 6
@@ -20593,6 +21239,17 @@ Tilemap:
   - m_RefCount: 0
     m_Data: {fileID: 0}
   - m_RefCount: 12
+=======
+  - m_RefCount: 9
+    m_Data: {fileID: 1315508007, guid: ef2c26fb98304da468beae1acc4c477e, type: 3}
+  - m_RefCount: 6
+    m_Data: {fileID: -537641371, guid: ef2c26fb98304da468beae1acc4c477e, type: 3}
+  - m_RefCount: 308
+    m_Data: {fileID: -866793689, guid: ef2c26fb98304da468beae1acc4c477e, type: 3}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 3
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     m_Data: {fileID: -188323226, guid: ef2c26fb98304da468beae1acc4c477e, type: 3}
   - m_RefCount: 0
     m_Data: {fileID: 0}
@@ -20614,10 +21271,17 @@ Tilemap:
     m_Data: {fileID: -1464398486, guid: ef2c26fb98304da468beae1acc4c477e, type: 3}
   - m_RefCount: 1
     m_Data: {fileID: 413680704, guid: ef2c26fb98304da468beae1acc4c477e, type: 3}
+<<<<<<< HEAD
   - m_RefCount: 6
     m_Data: {fileID: -108913646, guid: ef2c26fb98304da468beae1acc4c477e, type: 3}
   m_TileMatrixArray:
   - m_RefCount: 1910
+=======
+  - m_RefCount: 1
+    m_Data: {fileID: -108913646, guid: ef2c26fb98304da468beae1acc4c477e, type: 3}
+  m_TileMatrixArray:
+  - m_RefCount: 339
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     m_Data:
       e00: 1
       e01: 0
@@ -20636,13 +21300,22 @@ Tilemap:
       e32: 0
       e33: 1
   m_TileColorArray:
+<<<<<<< HEAD
   - m_RefCount: 1910
+=======
+  - m_RefCount: 339
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     m_Data: {r: 1, g: 1, b: 1, a: 1}
   m_TileObjectToInstantiateArray: []
   m_AnimationFrameRate: 1
   m_Color: {r: 1, g: 1, b: 1, a: 1}
+<<<<<<< HEAD
   m_Origin: {x: -7, y: -30, z: 0}
   m_Size: {x: 144, y: 38, z: 1}
+=======
+  m_Origin: {x: -7, y: -17, z: 0}
+  m_Size: {x: 35, y: 25, z: 1}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   m_TileAnchor: {x: 0.5, y: 0.5, z: 0}
   m_TileOrientation: 0
   m_TileOrientationMatrix:
@@ -20662,6 +21335,7 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+<<<<<<< HEAD
 --- !u!1001 &1628820789
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -20721,6 +21395,8 @@ PrefabInstance:
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 5cd706276180c4b49881fdd00b60de54, type: 3}
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
 --- !u!1 &1644371311
 GameObject:
   m_ObjectHideFlags: 0
@@ -21190,6 +21866,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 15, y: -30, z: 0}
     second:
       serializedVersion: 2
@@ -22420,6 +23097,8 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   - first: {x: -16, y: -29, z: 0}
     second:
       serializedVersion: 2
@@ -22730,6 +23409,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 15, y: -29, z: 0}
     second:
       serializedVersion: 2
@@ -23960,6 +24640,8 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   - first: {x: -16, y: -28, z: 0}
     second:
       serializedVersion: 2
@@ -24270,6 +24952,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 15, y: -28, z: 0}
     second:
       serializedVersion: 2
@@ -25500,6 +26183,8 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   - first: {x: -16, y: -27, z: 0}
     second:
       serializedVersion: 2
@@ -25810,6 +26495,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 15, y: -27, z: 0}
     second:
       serializedVersion: 2
@@ -27040,6 +27726,8 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   - first: {x: -16, y: -26, z: 0}
     second:
       serializedVersion: 2
@@ -27350,6 +28038,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 15, y: -26, z: 0}
     second:
       serializedVersion: 2
@@ -28330,6 +29019,8 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   - first: {x: -16, y: -25, z: 0}
     second:
       serializedVersion: 2
@@ -28640,6 +29331,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 15, y: -25, z: 0}
     second:
       serializedVersion: 2
@@ -29620,6 +30312,8 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   - first: {x: -16, y: -24, z: 0}
     second:
       serializedVersion: 2
@@ -29930,6 +30624,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 15, y: -24, z: 0}
     second:
       serializedVersion: 2
@@ -30910,6 +31605,8 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   - first: {x: -16, y: -23, z: 0}
     second:
       serializedVersion: 2
@@ -31220,6 +31917,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 84, y: -23, z: 0}
     second:
       serializedVersion: 2
@@ -31510,6 +32208,8 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   - first: {x: -16, y: -22, z: 0}
     second:
       serializedVersion: 2
@@ -31820,6 +32520,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 84, y: -22, z: 0}
     second:
       serializedVersion: 2
@@ -32110,6 +32811,8 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   - first: {x: -16, y: -21, z: 0}
     second:
       serializedVersion: 2
@@ -32420,6 +33123,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 84, y: -21, z: 0}
     second:
       serializedVersion: 2
@@ -32710,6 +33414,8 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   - first: {x: -16, y: -20, z: 0}
     second:
       serializedVersion: 2
@@ -33020,6 +33726,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 84, y: -20, z: 0}
     second:
       serializedVersion: 2
@@ -33310,6 +34017,8 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   - first: {x: -16, y: -19, z: 0}
     second:
       serializedVersion: 2
@@ -33620,6 +34329,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 84, y: -19, z: 0}
     second:
       serializedVersion: 2
@@ -33970,6 +34680,8 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   - first: {x: -16, y: -18, z: 0}
     second:
       serializedVersion: 2
@@ -34280,6 +34992,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 22, y: -18, z: 0}
     second:
       serializedVersion: 2
@@ -34840,6 +35553,8 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   - first: {x: -16, y: -17, z: 0}
     second:
       serializedVersion: 2
@@ -35070,6 +35785,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 21, y: -17, z: 0}
     second:
       serializedVersion: 2
@@ -35540,6 +36256,8 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   - first: {x: -16, y: -16, z: 0}
     second:
       serializedVersion: 2
@@ -35770,6 +36488,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 20, y: -16, z: 0}
     second:
       serializedVersion: 2
@@ -36280,6 +36999,8 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   - first: {x: -16, y: -15, z: 0}
     second:
       serializedVersion: 2
@@ -36510,6 +37231,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 19, y: -15, z: 0}
     second:
       serializedVersion: 2
@@ -37140,6 +37862,8 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   - first: {x: -16, y: -14, z: 0}
     second:
       serializedVersion: 2
@@ -37370,6 +38094,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 18, y: -14, z: 0}
     second:
       serializedVersion: 2
@@ -38040,6 +38765,8 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   - first: {x: -16, y: -13, z: 0}
     second:
       serializedVersion: 2
@@ -38264,6 +38991,7 @@ Tilemap:
     second:
       serializedVersion: 2
       m_TileIndex: 12
+<<<<<<< HEAD
       m_TileSpriteIndex: 21
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
@@ -38905,6 +39633,9 @@ Tilemap:
       serializedVersion: 2
       m_TileIndex: 14
       m_TileSpriteIndex: 14
+=======
+      m_TileSpriteIndex: 12
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -39020,6 +39751,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 77, y: -12, z: 0}
     second:
       serializedVersion: 2
@@ -39255,6 +39987,13 @@ Tilemap:
       serializedVersion: 2
       m_TileIndex: 14
       m_TileSpriteIndex: 14
+=======
+  - first: {x: 14, y: -12, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 12
+      m_TileSpriteIndex: 12
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -39370,6 +40109,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 77, y: -11, z: 0}
     second:
       serializedVersion: 2
@@ -39725,6 +40465,13 @@ Tilemap:
       serializedVersion: 2
       m_TileIndex: 14
       m_TileSpriteIndex: 14
+=======
+  - first: {x: 14, y: -11, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 12
+      m_TileSpriteIndex: 12
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -39840,6 +40587,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 77, y: -10, z: 0}
     second:
       serializedVersion: 2
@@ -40205,6 +40953,13 @@ Tilemap:
       serializedVersion: 2
       m_TileIndex: 14
       m_TileSpriteIndex: 14
+=======
+  - first: {x: 14, y: -10, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 12
+      m_TileSpriteIndex: 12
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -40320,6 +41075,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 84, y: -9, z: 0}
     second:
       serializedVersion: 2
@@ -40595,6 +41351,13 @@ Tilemap:
       serializedVersion: 2
       m_TileIndex: 14
       m_TileSpriteIndex: 14
+=======
+  - first: {x: 14, y: -9, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 12
+      m_TileSpriteIndex: 12
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -40710,11 +41473,19 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 137, y: -8, z: 0}
     second:
       serializedVersion: 2
       m_TileIndex: 14
       m_TileSpriteIndex: 14
+=======
+  - first: {x: 14, y: -8, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 12
+      m_TileSpriteIndex: 12
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -40830,11 +41601,19 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 137, y: -7, z: 0}
     second:
       serializedVersion: 2
       m_TileIndex: 10
       m_TileSpriteIndex: 10
+=======
+  - first: {x: 14, y: -7, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 12
+      m_TileSpriteIndex: 12
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -41050,11 +41829,19 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 137, y: -6, z: 0}
     second:
       serializedVersion: 2
       m_TileIndex: 14
       m_TileSpriteIndex: 14
+=======
+  - first: {x: 14, y: -6, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 12
+      m_TileSpriteIndex: 12
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -41270,6 +42057,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 104, y: -5, z: 0}
     second:
       serializedVersion: 2
@@ -41315,6 +42103,13 @@ Tilemap:
       serializedVersion: 2
       m_TileIndex: 10
       m_TileSpriteIndex: 10
+=======
+  - first: {x: 14, y: -5, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 12
+      m_TileSpriteIndex: 12
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -41530,6 +42325,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 103, y: -4, z: 0}
     second:
       serializedVersion: 2
@@ -41595,6 +42391,13 @@ Tilemap:
       serializedVersion: 2
       m_TileIndex: 14
       m_TileSpriteIndex: 14
+=======
+  - first: {x: 14, y: -4, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 12
+      m_TileSpriteIndex: 12
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -41890,6 +42693,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 84, y: -3, z: 0}
     second:
       serializedVersion: 2
@@ -42000,6 +42804,8 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   - first: {x: -16, y: -2, z: 0}
     second:
       serializedVersion: 2
@@ -42290,6 +43096,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 39, y: -2, z: 0}
     second:
       serializedVersion: 2
@@ -42640,6 +43447,8 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   - first: {x: -16, y: -1, z: 0}
     second:
       serializedVersion: 2
@@ -42930,6 +43739,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 39, y: -1, z: 0}
     second:
       serializedVersion: 2
@@ -43340,6 +44150,8 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   - first: {x: -16, y: 0, z: 0}
     second:
       serializedVersion: 2
@@ -43490,6 +44302,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 39, y: 0, z: 0}
     second:
       serializedVersion: 2
@@ -44040,6 +44853,8 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   - first: {x: -16, y: 1, z: 0}
     second:
       serializedVersion: 2
@@ -44190,6 +45005,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 45, y: 1, z: 0}
     second:
       serializedVersion: 2
@@ -44800,6 +45616,8 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   - first: {x: -16, y: 2, z: 0}
     second:
       serializedVersion: 2
@@ -44950,6 +45768,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 45, y: 2, z: 0}
     second:
       serializedVersion: 2
@@ -45580,6 +46399,8 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   - first: {x: -16, y: 3, z: 0}
     second:
       serializedVersion: 2
@@ -45690,6 +46511,7 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+<<<<<<< HEAD
   - first: {x: 84, y: 3, z: 0}
     second:
       serializedVersion: 2
@@ -46230,6 +47052,8 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   - first: {x: -16, y: 4, z: 0}
     second:
       serializedVersion: 2
@@ -46672,6 +47496,7 @@ Tilemap:
       m_AllTileFlags: 1073741825
   m_AnimatedTiles: {}
   m_TileAssetArray:
+<<<<<<< HEAD
   - m_RefCount: 113
     m_Data: {fileID: 11400000, guid: 3e86b0bf74ea06c4daac63e5fa488099, type: 2}
   - m_RefCount: 10
@@ -46771,6 +47596,79 @@ Tilemap:
     m_Data: {fileID: 796871494, guid: ef2c26fb98304da468beae1acc4c477e, type: 3}
   m_TileMatrixArray:
   - m_RefCount: 2579
+=======
+  - m_RefCount: 28
+    m_Data: {fileID: 11400000, guid: 3e86b0bf74ea06c4daac63e5fa488099, type: 2}
+  - m_RefCount: 3
+    m_Data: {fileID: 11400000, guid: 8b1871d43dabe81469d76808b8689a69, type: 2}
+  - m_RefCount: 3
+    m_Data: {fileID: 11400000, guid: 8c0d737566d53724ea87437abd7da48d, type: 2}
+  - m_RefCount: 24
+    m_Data: {fileID: 11400000, guid: b5ce9e4d6d319ee41afbba1ee284e8a1, type: 2}
+  - m_RefCount: 4
+    m_Data: {fileID: 11400000, guid: df83eddc6c7ba9f488b49890535ff343, type: 2}
+  - m_RefCount: 28
+    m_Data: {fileID: 11400000, guid: 4d21c8d893b45224193a5053fc58d5dc, type: 2}
+  - m_RefCount: 26
+    m_Data: {fileID: 11400000, guid: 7553e5652f524524f97e57cbca10e900, type: 2}
+  - m_RefCount: 8
+    m_Data: {fileID: 11400000, guid: e9bcf965601d9c047b861e3d7ce8dff0, type: 2}
+  - m_RefCount: 3
+    m_Data: {fileID: 11400000, guid: f7b955d6d5895c44b8bbef10451a5ba4, type: 2}
+  - m_RefCount: 488
+    m_Data: {fileID: 11400000, guid: 8d031d2dfcb2d5e42ad584d3f745e5c9, type: 2}
+  - m_RefCount: 1
+    m_Data: {fileID: 11400000, guid: 340cb73edf9b74e49b13e0466b8138e9, type: 2}
+  - m_RefCount: 10
+    m_Data: {fileID: 11400000, guid: 15c171e466b73b74d8ec10bdcf6daba7, type: 2}
+  - m_RefCount: 10
+    m_Data: {fileID: 11400000, guid: 7667be5b0d256ce4dbae4ef170c5db14, type: 2}
+  - m_RefCount: 17
+    m_Data: {fileID: 11400000, guid: 86d824ce4c52a2e4298fda81a193584f, type: 2}
+  - m_RefCount: 17
+    m_Data: {fileID: 11400000, guid: 87d520afb2b018e4eb2bd6a7cc24459b, type: 2}
+  - m_RefCount: 170
+    m_Data: {fileID: 11400000, guid: e0004be2589c9bb4fa58c66570bc2327, type: 2}
+  - m_RefCount: 3
+    m_Data: {fileID: 11400000, guid: c80324333171c5b4d8c92a11e2cd8303, type: 2}
+  m_TileSpriteArray:
+  - m_RefCount: 28
+    m_Data: {fileID: -304386117, guid: ef2c26fb98304da468beae1acc4c477e, type: 3}
+  - m_RefCount: 3
+    m_Data: {fileID: 748398836, guid: ef2c26fb98304da468beae1acc4c477e, type: 3}
+  - m_RefCount: 3
+    m_Data: {fileID: -1306715052, guid: ef2c26fb98304da468beae1acc4c477e, type: 3}
+  - m_RefCount: 24
+    m_Data: {fileID: -1575139639, guid: ef2c26fb98304da468beae1acc4c477e, type: 3}
+  - m_RefCount: 4
+    m_Data: {fileID: 185320578, guid: ef2c26fb98304da468beae1acc4c477e, type: 3}
+  - m_RefCount: 28
+    m_Data: {fileID: 1499944448, guid: ef2c26fb98304da468beae1acc4c477e, type: 3}
+  - m_RefCount: 26
+    m_Data: {fileID: -904361482, guid: ef2c26fb98304da468beae1acc4c477e, type: 3}
+  - m_RefCount: 8
+    m_Data: {fileID: 431999305, guid: ef2c26fb98304da468beae1acc4c477e, type: 3}
+  - m_RefCount: 3
+    m_Data: {fileID: 1992647205, guid: ef2c26fb98304da468beae1acc4c477e, type: 3}
+  - m_RefCount: 488
+    m_Data: {fileID: -1152939192, guid: ef2c26fb98304da468beae1acc4c477e, type: 3}
+  - m_RefCount: 1
+    m_Data: {fileID: 1951460223, guid: ef2c26fb98304da468beae1acc4c477e, type: 3}
+  - m_RefCount: 10
+    m_Data: {fileID: -1197972909, guid: ef2c26fb98304da468beae1acc4c477e, type: 3}
+  - m_RefCount: 10
+    m_Data: {fileID: -1854442375, guid: ef2c26fb98304da468beae1acc4c477e, type: 3}
+  - m_RefCount: 17
+    m_Data: {fileID: 1475398641, guid: ef2c26fb98304da468beae1acc4c477e, type: 3}
+  - m_RefCount: 17
+    m_Data: {fileID: -1807442018, guid: ef2c26fb98304da468beae1acc4c477e, type: 3}
+  - m_RefCount: 170
+    m_Data: {fileID: 1849479287, guid: ef2c26fb98304da468beae1acc4c477e, type: 3}
+  - m_RefCount: 3
+    m_Data: {fileID: -121333273, guid: ef2c26fb98304da468beae1acc4c477e, type: 3}
+  m_TileMatrixArray:
+  - m_RefCount: 843
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     m_Data:
       e00: 1
       e01: 0
@@ -46789,13 +47687,21 @@ Tilemap:
       e32: 0
       e33: 1
   m_TileColorArray:
+<<<<<<< HEAD
   - m_RefCount: 2579
+=======
+  - m_RefCount: 843
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     m_Data: {r: 1, g: 1, b: 1, a: 1}
   m_TileObjectToInstantiateArray: []
   m_AnimationFrameRate: 1
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Origin: {x: -16, y: -30, z: 0}
+<<<<<<< HEAD
   m_Size: {x: 154, y: 38, z: 1}
+=======
+  m_Size: {x: 52, y: 38, z: 1}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   m_TileAnchor: {x: 0.5, y: 0.5, z: 0}
   m_TileOrientation: 0
   m_TileOrientationMatrix:
@@ -46835,6 +47741,7 @@ CompositeCollider2D:
   m_ColliderPaths:
   - m_Collider: {fileID: 1858241048}
     m_ColliderPaths:
+<<<<<<< HEAD
     - - X: 1380000000
         Y: 40000000
       - X: 840000000
@@ -47076,6 +47983,27 @@ CompositeCollider2D:
       - X: 150000000
         Y: -230000000
       - X: 150000000
+=======
+    - - X: 150000000
+        Y: -30000000
+      - X: 166250000
+        Y: -30000000
+      - X: 170000000
+        Y: -25000000
+      - X: 170000000
+        Y: 0
+      - X: 140000000
+        Y: 0
+      - X: 140000000
+        Y: -23750000
+      - X: 141875008
+        Y: -27500000
+      - X: 146250000
+        Y: -30000000
+      - X: 140000000
+        Y: -30000000
+      - X: 140000000
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
         Y: -120000000
       - X: 30000000
         Y: -120000000
@@ -47099,6 +48027,7 @@ CompositeCollider2D:
         Y: 80000000
       - X: -160000000
         Y: -300000000
+<<<<<<< HEAD
       - X: 1380000000
         Y: -300000000
     - - X: 720000000
@@ -47141,6 +48070,10 @@ CompositeCollider2D:
         Y: -30000000
       - X: 310000000
         Y: -30000000
+=======
+      - X: 150000000
+        Y: -300000000
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     - - X: 360000000
         Y: 5000000
       - X: 360000000
@@ -47155,6 +48088,7 @@ CompositeCollider2D:
         Y: 0
       - X: 356249984
         Y: 0
+<<<<<<< HEAD
     - - X: 480000000
         Y: 5000000
       - X: 480000000
@@ -47224,6 +48158,19 @@ CompositeCollider2D:
       - X: 146250000
         Y: -30000000
       - X: 166250000
+=======
+    - - X: 310000000
+        Y: 30000000
+      - X: 300000000
+        Y: 30000000
+      - X: 300000000
+        Y: 0
+      - X: 190000000
+        Y: 0
+      - X: 190000000
+        Y: -30000000
+      - X: 310000000
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
         Y: -30000000
     - - X: 120000000
         Y: -25000000
@@ -47239,6 +48186,7 @@ CompositeCollider2D:
         Y: -30000000
       - X: 116250000
         Y: -30000000
+<<<<<<< HEAD
     - - X: 800000000
         Y: -115000000
       - X: 800000000
@@ -47629,6 +48577,21 @@ CompositeCollider2D:
       - {x: 83.99997, y: -23}
       - {x: 15, y: -22.999971}
       - {x: 14.999971, y: -12}
+=======
+  m_CompositePaths:
+    m_Paths:
+    - - {x: 14.999971, y: -30}
+      - {x: 15.000029, y: -3}
+      - {x: 16.625008, y: -2.9999895}
+      - {x: 17, y: -2.4999917}
+      - {x: 16.999971, y: 0}
+      - {x: 14, y: -0.000029300001}
+      - {x: 14.000004, y: -2.3750057}
+      - {x: 14.187508, y: -2.7500036}
+      - {x: 14.624849, y: -3}
+      - {x: 14, y: -3.0000293}
+      - {x: 13.999971, y: -12}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
       - {x: 3, y: -12.00003}
       - {x: 2.9999707, y: -17}
       - {x: -5, y: -16.999971}
@@ -47640,6 +48603,7 @@ CompositeCollider2D:
       - {x: -5.000029, y: 8}
       - {x: -16, y: 7.9999704}
       - {x: -15.999971, y: -30}
+<<<<<<< HEAD
     - - {x: 71.624985, y: 0}
       - {x: 72, y: 0.5000085}
       - {x: 71.99997, y: 3}
@@ -47667,6 +48631,8 @@ CompositeCollider2D:
       - {x: 45.000004, y: 0.6249945}
       - {x: 45.187508, y: 0.2499963}
       - {x: 45.625004, y: 0}
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     - - {x: 35.624985, y: 0}
       - {x: 36, y: 0.5000085}
       - {x: 35.999973, y: 3}
@@ -47674,6 +48640,7 @@ CompositeCollider2D:
       - {x: 33.000004, y: 0.6249945}
       - {x: 33.187508, y: 0.2499963}
       - {x: 33.625004, y: 0}
+<<<<<<< HEAD
     - - {x: 41.624985, y: -2}
       - {x: 42, y: -1.4999915}
       - {x: 41.999973, y: 1}
@@ -47695,6 +48662,14 @@ CompositeCollider2D:
       - {x: 51.000004, y: -1.3750055}
       - {x: 51.187508, y: -1.7500036}
       - {x: 51.625004, y: -2}
+=======
+    - - {x: 30.999971, y: -3}
+      - {x: 30.999971, y: 3}
+      - {x: 30, y: 2.999971}
+      - {x: 29.999971, y: 0}
+      - {x: 19, y: -0.000029300001}
+      - {x: 19.000029, y: -3}
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
     - - {x: 11.624988, y: -3}
       - {x: 12, y: -2.4999917}
       - {x: 11.99997, y: 0}
@@ -47702,6 +48677,7 @@ CompositeCollider2D:
       - {x: 9.000003, y: -2.3750057}
       - {x: 9.187507, y: -2.7500036}
       - {x: 9.625007, y: -3}
+<<<<<<< HEAD
     - - {x: 16.624987, y: -3}
       - {x: 17, y: -2.4999917}
       - {x: 16.999971, y: 0}
@@ -47842,6 +48818,8 @@ CompositeCollider2D:
       - {x: 100, y: -18.375006}
       - {x: 100.18751, y: -18.750004}
       - {x: 100.62501, y: -19}
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   m_VertexDistance: 0.0005
   m_OffsetDistance: 0.00005
   m_UseDelaunayMesh: 0
@@ -47978,7 +48956,11 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 9
+=======
+  m_RootOrder: 8
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -48141,7 +49123,11 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< HEAD
   m_RootOrder: 11
+=======
+  m_RootOrder: 10
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1983672499
 MonoBehaviour:
@@ -48271,6 +49257,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   cam: {fileID: 519420031}
   followTarget: {fileID: 8419531373305488888}
+<<<<<<< HEAD
 --- !u!1001 &2144799834
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -48374,6 +49361,8 @@ PrefabInstance:
     m_RemovedComponents: []
     m_AddedGameObjects: []
   m_SourcePrefab: {fileID: 100100000, guid: 4cb1885b97605674baa35366c459e937, type: 3}
+=======
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
 --- !u!1001 &1872719019637232946
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -48384,7 +49373,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1392653336180973899, guid: fb5808c20621e524c8dc1372677133d0, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
       value: 10
+=======
+      value: 9
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
       objectReference: {fileID: 0}
     - target: {fileID: 1392653336180973899, guid: fb5808c20621e524c8dc1372677133d0, type: 3}
       propertyPath: m_LocalPosition.x
@@ -48562,6 +49555,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1834534944595514828, guid: 1c1d556a6eecb1e49abd41c295d08a9f, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
       value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 1834534944595514828, guid: 1c1d556a6eecb1e49abd41c295d08a9f, type: 3}
@@ -48571,6 +49565,17 @@ PrefabInstance:
     - target: {fileID: 1834534944595514828, guid: 1c1d556a6eecb1e49abd41c295d08a9f, type: 3}
       propertyPath: m_LocalPosition.y
       value: -6.74
+=======
+      value: 13
+      objectReference: {fileID: 0}
+    - target: {fileID: 1834534944595514828, guid: 1c1d556a6eecb1e49abd41c295d08a9f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 1834534944595514828, guid: 1c1d556a6eecb1e49abd41c295d08a9f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
       objectReference: {fileID: 0}
     - target: {fileID: 1834534944595514828, guid: 1c1d556a6eecb1e49abd41c295d08a9f, type: 3}
       propertyPath: m_LocalPosition.z
@@ -48645,7 +49650,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6584455778794968489, guid: 5cd706276180c4b49881fdd00b60de54, type: 3}
       propertyPath: m_RootOrder
+<<<<<<< HEAD
       value: 12
+=======
+      value: 11
+>>>>>>> parent of d85a3b2 (Merge branch 'main' of https://github.com/CSE4410/MAARDS_Quest)
       objectReference: {fileID: 0}
     - target: {fileID: 6584455778794968489, guid: 5cd706276180c4b49881fdd00b60de54, type: 3}
       propertyPath: m_LocalPosition.x
