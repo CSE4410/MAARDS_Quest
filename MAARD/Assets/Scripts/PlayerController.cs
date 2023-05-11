@@ -12,6 +12,7 @@ public class PlayerController : MonoBehaviour
     public float airWalkSpeed = 3f;
     public float jumpImpulse = 10f;
     Vector2 moveInput;
+
     TouchingDirections touchingDirections;
     Damageable damageable;
 
@@ -108,6 +109,8 @@ public class PlayerController : MonoBehaviour
 
     Rigidbody2D rb;
     Animator animator;
+    private Vector3 respawnPoint;
+    public GameObject fallDetector;
 
     private void Awake()
     {
@@ -115,6 +118,7 @@ public class PlayerController : MonoBehaviour
         animator = GetComponent<Animator>();
         touchingDirections = GetComponent<TouchingDirections>();
         damageable = GetComponent<Damageable>();
+        respawnPoint = transform.position;
     }
 
     private void FixedUpdate()
@@ -123,6 +127,16 @@ public class PlayerController : MonoBehaviour
             rb.velocity = new Vector2(moveInput.x * CurrentMoveSpeed, rb.velocity.y);
 
         animator.SetFloat(AnimationStrings.yVelocity, rb.velocity.y);
+
+        fallDetector.transform.position = new Vector2(transform.position.x, fallDetector.transform.position.y);
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.tag == "FallDetector")
+        {
+            transform.position = respawnPoint;
+        }
     }
 
     public void onMove(InputAction.CallbackContext context)
