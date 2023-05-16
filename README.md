@@ -1,3 +1,3 @@
 # MAARDS_Quest
-# Members are 
+# Members:
 Ruben Puentes, Andrew Di, Anthony Acosta, David Perez, Miguel Martinez 
