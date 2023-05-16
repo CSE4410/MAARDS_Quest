@@ -2,10 +2,11 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
+using System;
 
 public class Damageable : MonoBehaviour
 {
-
+    public static event Action OnPlayerDeath;
     public UnityEvent<int, Vector2> damageableHit;
     public UnityEvent<int, int> healthChanged;
 
@@ -39,6 +40,8 @@ public class Damageable : MonoBehaviour
             if(_health <= 0)
             {
                 IsAlive = false;
+                Debug.Log("Dead");
+                OnPlayerDeath?.Invoke();
             }
         }
     }
